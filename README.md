@@ -37,7 +37,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## __Badges__
 [![License: MIT](https://img.shields.io/badge/License-MIT-hotpink.svg)](https://opensource.org/licenses/MIT)
 ## __Screenshots__
-![spend-app-ss](https://user-images.githubusercontent.com/56444674/126218682-92f92823-1be3-4f03-a6c8-327900a14637.png)
+![spend-app-ss](public/assets/spend-app-ss.png)
 
 ## __Contributors__
 Sam Sweigart
