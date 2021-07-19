@@ -4,8 +4,23 @@ body {
 }
 
 button, input {
+  border: 1px solid black;
+  border-radius: 5px;
   font-size: 100%;
   font-family: Arial;
+}
+
+.btn-add, .btn-subtract {
+  color: rgb(219, 217, 217);
+  cursor: pointer;
+}
+
+.btn-add {
+  background-color: blue;
+}
+
+.btn-subtract {
+  background-color: red;
 }
 
 table {
@@ -34,7 +49,8 @@ tr:nth-child(even) {
 
 .total {
   font-size: 150%;
-  text-decoration: underline;
+  text-decoration: none;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.486);
 }
 
 .form {
@@ -46,6 +62,6 @@ tr:nth-child(even) {
   text-align: left;
   max-height: 300px;
   overflow: auto;
-  width: 90%;
+  width: 92%;
   margin: 0 auto;
 }
