@@ -16,11 +16,11 @@ button, input {
 }
 
 .btn-add {
-  background-color: blue;
+  background-color: rgb(102,102,255);
 }
 
 .btn-subtract {
-  background-color: red;
+  background-color: rgb(230, 72, 72);
 }
 
 table {
@@ -38,7 +38,7 @@ tr:nth-child(even) {
 }
 
 .error {
-  color: red;
+  color: rgb(240, 95, 95);
 }
 
 .wrapper {
